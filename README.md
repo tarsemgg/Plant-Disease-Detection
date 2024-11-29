@@ -36,7 +36,7 @@ Size: e.g., 50,000+ images
 Model Training
 Preprocessing:
 
-Images resized to 224x224 pixels.
+Images resized to 200x200 pixels.
 Data augmentation applied to enhance model robustness.
 Model Architecture:
 
