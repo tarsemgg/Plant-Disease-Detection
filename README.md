@@ -49,7 +49,7 @@ Results
 Example Output:
 Input: Leaf image
 Output: Disease Name, Confidence Score
-Model Accuracy: XX%
+Model Accuracy: 98%
 Sample prediction:
 Example Prediction (Insert image here if applicable)
 Future Enhancements
